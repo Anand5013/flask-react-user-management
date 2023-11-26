@@ -2,10 +2,8 @@
 
 A full-stack web application for user management built with Flask, React, and MySQL.
 
-## Screenshots
-
 ![Screenshot 1](react-flask-app-preview.png)
-*Caption for Screenshot 1*
+
 
 ## Features
 
